@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1564426394 source:c:\users\admin\desktop\my codes\c\les arbres\tpz_alsdd\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1564594846 source:c:\users\admin\desktop\tpz_alsdd\partie c\global.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"headers/global.h"
+	<windows.h>
+	<time.h>
+
+1564600790 c:\users\admin\desktop\tpz_alsdd\partie c\headers\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<stdint.h>
+	<windows.h>
+
+1564608160 source:c:\users\admin\desktop\tpz_alsdd\partie c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<stdint.h>
+	<windows.h>
+
