@@ -1,5 +1,5 @@
 # TPz-alsdd
-2018/2019
+2018/2019 [french]
 This is the source code of a school assignment given in the subject ALSDD (Dynamic data structures)
 It contains two parts : 
   the first is coded in Z-language (a programming language created by our professor) 
